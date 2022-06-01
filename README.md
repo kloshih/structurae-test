@@ -16,7 +16,7 @@ pnpm test
 The error that occurs is:
 
 ```
-Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in /Users/lo/wk/lura/_integrations/structurae-test/node_modules/structurae/package.json
+Error [ERR_PACKAGE_PATH_NOT_EXPORTED]: No "exports" main defined in /tmp/structurae-test/node_modules/structurae/package.json
     at new NodeError (node:internal/errors:371:5)
     at throwExportsNotFound (node:internal/modules/esm/resolve:453:9)
     at packageExportsResolve (node:internal/modules/esm/resolve:669:7)
